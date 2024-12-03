@@ -5,5 +5,5 @@ import MenuIcon from "@mui/icons-material/Menu";
 import Header from "./components/Header";
 
 export default function Home() {
-  return <>Hell</>;
+  return <>Hello</>;
 }
